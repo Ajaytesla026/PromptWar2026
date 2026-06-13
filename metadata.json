@@ -1,0 +1,8 @@
+{
+  "name": "Cooking To-Do List",
+  "description": "A personalized daily cooking to-do list, meal planner, and grocery checklist with smart substitutions and budget tier estimations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
